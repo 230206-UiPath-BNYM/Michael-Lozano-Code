@@ -1,0 +1,15 @@
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\bin\Debug\net6.0\hangman.exe
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\bin\Debug\net6.0\hangman.deps.json
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\bin\Debug\net6.0\hangman.runtimeconfig.json
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\bin\Debug\net6.0\hangman.dll
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\bin\Debug\net6.0\hangman.pdb
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\obj\Debug\net6.0\hangman.vbproj.AssemblyReference.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\obj\Debug\net6.0\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\obj\Debug\net6.0\hangman.AssemblyInfoInputs.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\obj\Debug\net6.0\hangman.AssemblyInfo.vb
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\obj\Debug\net6.0\hangman.vbproj.CoreCompileInputs.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\obj\Debug\net6.0\hangman.dll
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\obj\Debug\net6.0\refint\hangman.dll
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\obj\Debug\net6.0\hangman.pdb
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\obj\Debug\net6.0\hangman.genruntimeconfig.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\hangman\obj\Debug\net6.0\ref\hangman.dll

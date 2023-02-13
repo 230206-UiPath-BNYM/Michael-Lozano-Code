@@ -1,0 +1,15 @@
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\bin\Debug\net6.0\collections.exe
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\bin\Debug\net6.0\collections.deps.json
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\bin\Debug\net6.0\collections.runtimeconfig.json
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\bin\Debug\net6.0\collections.dll
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\bin\Debug\net6.0\collections.pdb
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\obj\Debug\net6.0\collections.vbproj.AssemblyReference.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\obj\Debug\net6.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\obj\Debug\net6.0\collections.AssemblyInfoInputs.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\obj\Debug\net6.0\collections.AssemblyInfo.vb
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\obj\Debug\net6.0\collections.vbproj.CoreCompileInputs.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\obj\Debug\net6.0\collections.dll
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\obj\Debug\net6.0\refint\collections.dll
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\obj\Debug\net6.0\collections.pdb
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\obj\Debug\net6.0\collections.genruntimeconfig.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\collections\obj\Debug\net6.0\ref\collections.dll

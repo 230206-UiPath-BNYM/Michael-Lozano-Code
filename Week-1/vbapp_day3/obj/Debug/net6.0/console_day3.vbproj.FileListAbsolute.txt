@@ -1,0 +1,15 @@
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\bin\Debug\net6.0\console_day3.exe
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\bin\Debug\net6.0\console_day3.deps.json
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\bin\Debug\net6.0\console_day3.runtimeconfig.json
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\bin\Debug\net6.0\console_day3.dll
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\bin\Debug\net6.0\console_day3.pdb
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\obj\Debug\net6.0\console_day3.vbproj.AssemblyReference.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\obj\Debug\net6.0\console_day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\obj\Debug\net6.0\console_day3.AssemblyInfoInputs.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\obj\Debug\net6.0\console_day3.AssemblyInfo.vb
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\obj\Debug\net6.0\console_day3.vbproj.CoreCompileInputs.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\obj\Debug\net6.0\console_day3.dll
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\obj\Debug\net6.0\refint\console_day3.dll
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\obj\Debug\net6.0\console_day3.pdb
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\obj\Debug\net6.0\console_day3.genruntimeconfig.cache
+C:\Revature_Program\Michael-Lozano-Code\Week-1\vbapp_day3\obj\Debug\net6.0\ref\console_day3.dll
